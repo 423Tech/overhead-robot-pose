@@ -1,0 +1,5 @@
+numpy>=1.21
+opencv-python>=4.5
+# optional, only for the hybrid mode / fetching ffmpeg:
+# ultralytics>=8.0
+# imageio-ffmpeg

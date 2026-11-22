@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+assets/ffmpeg*
+*.preview.png
+out/
+out_*/
+*.jsonl
