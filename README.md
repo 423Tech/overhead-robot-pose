@@ -56,6 +56,7 @@ rig - reuse it only for that exact camera, never for a different one.
 | `scripts/` | the pipeline (calibration, pose, overlay, notes, QA) |
 | `references/` | conventions and maths, calibration method, tuning notes, YOLO notes |
 | `assets/` | example calibration for the reference rig |
+| `DEPLOY.md` | copy-paste prompts for installing the skill and for handing it a job |
 
 ## Results on the reference recordings
 
